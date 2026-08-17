@@ -1,5 +1,5 @@
 # 👋 Елизавета Шеховцова  
-**Data Analyst | SQL, Python, BI**
+**Data Analyst | SQL, Python, Excel**
 
 📍 Санкт-Петербург, Россия  
 📞 +7-999-524-30-39  
